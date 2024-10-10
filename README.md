@@ -27,9 +27,6 @@ cybersecurity-sheets/
 │   └── ... (additional sheets)
 ├── assets/
 │   └── diagrams/
-├── CONTRIBUTING.md
-├── CODE_OF_CONDUCT.md
-├── LICENSE
 └── README.md
 ```
 
